@@ -1,0 +1,3 @@
+[submodule "Receiver code/FLIR-Pan-Tilt-Ruby-Library"]
+	path = Receiver code/FLIR-Pan-Tilt-Ruby-Library
+	url = https://github.com/robinjanssens/FLIR-Pan-Tilt-Ruby-Library.git
