@@ -1,5 +1,12 @@
 # Antenna Measurements in Anechoic Chamber
 
+## Install
+
+- To pull dependencies run `git submodule init && git submodule update`
+- `cd Receiver\ code/FLIR-Pan-Tilt-Ruby-Library/`
+- Install bundler `gem install bundler`
+- Run Bundler `bundle install`
+
 ## How To Run a Measurement
 
 ### Start Transmitter
